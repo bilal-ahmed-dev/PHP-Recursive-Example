@@ -10,4 +10,6 @@ This Repository contains the dummy tree structure zip folder which contains the 
 Just extract the folder in any drive and add change the path in recursive_example.php file where it says $folderPath = "DriveName:/FolderName";
 
 After changing the path run the file from your local server like xampp,wamp etc.
+
+Demo Screenshot.
 <img src="https://github.com/wpthemes786/PHP-Recursive-Example/blob/master/screenshot.png" alt="PHP Recursive Function">
