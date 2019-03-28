@@ -11,5 +11,5 @@ Just extract the folder in any drive and add change the path in recursive_exampl
 
 After changing the path run the file from your local server like xampp,wamp etc.
 
-Demo Screenshot.
+Demo Screenshot. <br>
 <img src="https://github.com/wpthemes786/PHP-Recursive-Example/blob/master/screenshot.png" alt="PHP Recursive Function">
